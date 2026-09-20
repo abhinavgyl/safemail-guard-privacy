@@ -28,7 +28,7 @@ The extension is designed with a privacy-first approach.
 
 **Abhinav Goyal**
 
-Email: navgyl@gmail.com
+Email: agoyal@sandiego.edu
 
 ## Copyright
 
